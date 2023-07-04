@@ -1,0 +1,13 @@
+Parameter,,butter-6_lowQ_1,butter-6_lowQ_2,butter-6_lowQ_3
+cVal1,,4.982,2.165,1.063
+cVal2,,4.122,2.054,1.354
+cVal3,,1,1,1
+cVal4,,22.59,4.107,653.1e-3
+cVal5,,4.122,2.054,1.354
+cVal6,,5.134,1.112,359.8e-3
+cVal7,,1,1,1
+
+Output,Pass/Fail,butter-6_lowQ_1,butter-6_lowQ_2,butter-6_lowQ_3
+A2max,,1.089,1.024,805.2e-3
+A1max,,6.981,2.191,436.6e-3
+
